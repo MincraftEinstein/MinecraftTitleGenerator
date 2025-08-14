@@ -20,3 +20,6 @@ Any textures within the following directories
 - shapes/heart/textures
   - Except:
     - flat.png
+- shapes/flame/textures
+  - Except:
+    - flat.png

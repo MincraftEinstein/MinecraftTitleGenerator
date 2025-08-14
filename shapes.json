@@ -61,5 +61,19 @@
     "ends": [
       [0, 16, 44, 60]
     ]
+  },
+  {
+    "id": "flame",
+    "author": "MincraftEinstein",
+    "height": 36,
+    "textureWidth": 70,
+    "textureHeight": 75,
+    "border": 66,
+    "faces": [
+        [16, 48]
+    ],
+    "ends": [
+      [0, 16, 48, 64]
+    ]
   }
 ]

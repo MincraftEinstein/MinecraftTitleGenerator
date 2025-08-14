@@ -1099,5 +1099,14 @@
   "shapes/cube/thumbnails/devil.png": "12a4eb527e8c9f87525889d86848e47ab62ba151608ad06a301b78b7d233b6d9",
   "shapes/cube/textures/devil.png": "b0da6dae68a0b1224db060b5971217156adfaddc1f9698712bf5d442105d9d18",
   "shapes/cube/thumbnails/smiling_divel.png": "4e39b6a5caebcb7e6cf5838a24ca2135a72c8c6a80c4fe9359f3241911210725",
-  "shapes/minecraft-ten-blank/thumbnails/glow_squid_text.png": "e7866b8443577824db1e36ab7b5a260c98191ac2e81ada3850f26857ed614477"
+  "shapes/minecraft-ten-blank/thumbnails/glow_squid_text.png": "e7866b8443577824db1e36ab7b5a260c98191ac2e81ada3850f26857ed614477",
+  "shapes/flame/thumbnails/flame.png": "2811ae35e52b03edcdea6b0e6edad9a381a35a35180544341924ba6fcae1775c",
+  "shapes/flame/thumbnails/flat.png": "f4e1dcdbd9ee10547d4662ba96b72401c2aa12c70bcd71de9bfff0d198c4f564",
+  "shapes/flame/thumbnails/highlights_bottom.png": "5837819b96f72d22dec2172ec1e361ee6cc17afbb9aaf4b61e6be04da83c41db",
+  "shapes/flame/thumbnails/highlights_top.png": "64742e9f84ef61b081080749a2e49c60a5b5debca76bda327ac66393178a38e0",
+  "shapes/flame/thumbnails/none.png": "1c066abadf9cbbcb5e30b14ae627ca275361598ecb69be56807ff4825b02771d",
+  "shapes/flame/overlays/highlights_bottom.png": "07342f0f8249062504b43e3a948713c4c3ab39369f360701ab3d173f688c9671",
+  "shapes/flame/overlays/highlights_top.png": "2f1477cc158185cc293e273d1f7dfde635ff8a91dcd46944b97ce140c8eb683f",
+  "shapes/flame/textures/flame.png": "6be3ea893e5f96b0d073cdbb7d051f5fca0afbbcc7eb8e880996d2a4a936b429",
+  "shapes/flame/textures/flat.png": "1eebec198173a98729a2b15e50a09077c9bc20c9f23cd9c281689010f250babe"
 }

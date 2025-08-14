@@ -1,0 +1,18 @@
+{
+  "textures": {
+    "flat": {
+      "author": "MincraftEinstein"
+    },
+    "flame": {
+      "author": "MincraftEinstein"
+    }
+  },
+  "overlays": {
+    "highlights_bottom": {
+      "author": "MincraftEinstein"
+    },
+    "highlights_top": {
+      "author": "MincraftEinstein"
+    }
+  }
+}
